@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️ 
 
-> https://abhignar.github.io
+> https://abhignaramamurthy.github.io
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://abhignar.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/abhigna-r/)
